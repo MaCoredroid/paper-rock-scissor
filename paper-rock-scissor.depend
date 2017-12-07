@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1512620231 source:e:\coredroid\paper-rock-scissor\main.cpp
+	"p_r_s.h"
+
+1512610779 e:\coredroid\paper-rock-scissor\p_r_s.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1512620063 source:e:\coredroid\paper-rock-scissor\select.cpp
+	"p_r_s.h"
+
+1512610779 source:e:\coredroid\paper-rock-scissor\p_r_s.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1512620197 source:e:\coredroid\paper-rock-scissor\print.cpp
+	"p_r_s.h"
+
+1512607668 source:e:\coredroid\paper-rock-scissor\compare.cpp
+	"p_r_s.h"
+
